@@ -1,0 +1,19 @@
+{
+    "name": "ragic/ragic-php",
+    "description": "Ragic PHP SDK",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ragic\\RagicPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zen4641",
+            "email": "zen4641@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
